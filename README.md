@@ -4,4 +4,4 @@ This is a sample website with a lot of touting of the [*Learn Enough™ Git to B
 
 [Check it out.](https://youtu.be/dQw4w9WgXcQ)
 
-[GitHub Page](https://github.com/brandoncieslak/samplesite)
+To learn more about Git, see the [official Git documentation](https://git-scm.com/).
